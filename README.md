@@ -37,5 +37,5 @@ To use the code in this repository, follow these steps:
    python src/gradio_chatbot.py
    ```
 
-
+5. Once the Gradio app is up, upload a document (pdf or csv), choose the models (embedding and generation), adjust the tunable parameters, fiddle with the system prompt, and ask anything you need!
 
