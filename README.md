@@ -1,6 +1,6 @@
-# Retrieval-Augmented Generation
+# Retrieval Augmented Generation
 
-This repository contains code and resources related to Retrieval-Augmented Generation (RAG), a technique designed to address the data freshness problem in Large Language Models (LLMs) like Llama-2. LLMs often lack awareness of recent events and up-to-date information. RAG incorporates external knowledge from a knowledge base into LLM responses, enabling accurate and well-grounded responses.
+This repository contains code and resources related to Retrieval Augmented Generation (RAG), a technique designed to address the data freshness problem in Large Language Models (LLMs) like Llama-2. LLMs often lack awareness of recent events and up-to-date information. RAG incorporates external knowledge from a knowledge base into LLM responses, enabling accurate and well-grounded responses.
 
 ## Repository Contents
 
@@ -9,7 +9,7 @@ This repository contains code and resources related to Retrieval-Augmented Gener
 - `db`: To manage and store token embeddings or vector representations for knowledge base searches.
 - `requirements.txt`: Required Python packages to run the code in this repository.
 
-## About RAG (Retrieval-Augmented Generation)
+## About RAG (Retrieval Augmented Generation)
 
 RAG is a novel approach combining Large Language Models (LLMs) capabilities with external knowledge bases to enhance the quality and freshness of generated responses. It addresses the challenge of outdated information by retrieving contextually relevant knowledge from external sources and incorporating it into LLM-generated content.
 
